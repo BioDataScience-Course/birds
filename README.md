@@ -4,7 +4,7 @@ Template pour la réalisation d'un exercice sur la population d'oiseaux dans une
 
 ## Contexte
 
-Depuis 1950, dans une zone d'intérêt particulier l'abondance d'oiseaux est suivie chaque semaine durant 21 ans. Aidez les scientifiques à répérer les cycles particulier ainsi que si une tendance générale est présente.
+Depuis 1950, dans une zone d'intérêt particulier l'abondance d'oiseaux est suivie chaque semaine durant 21 ans. Aidez les scientifiques à repérer les cycles particuliers ainsi que si une tendance générale est présente.
 
 ## Objectif
 
